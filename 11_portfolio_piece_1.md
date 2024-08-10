@@ -2,7 +2,7 @@
 Loom Link: [Insert Here]
 Presentation Slides: [Insert Your Link Here]
 
-Presentation Slides Template: https://docs.google.com/presentation/d/1MTiIdjlDYyPIMa23tHK6QwpHWtk6G5zPw_n45aAr3D0/edit#slide=id.g1f203f4d459_0_15
+Presentation Slides Template: [https://docs.google.com/presentation/d/1MTiIdjlDYyPIMa23tHK6QwpHWtk6G5zPw_n45aAr3D0/edit#slide=id.g1f203f4d459_0_15](https://docs.google.com/presentation/d/1P-lu1j7dtvFMtC-hg5HyfY7dvRhXHJv7ViYjpX8DHHw/edit?usp=sharing)
 
 
 # Presentation Talking Points
